@@ -35,6 +35,6 @@ spec:
   ports:
     - name: http
       port: 80
-      nodePort: 32478
+      nodePort: 32479
 
 
