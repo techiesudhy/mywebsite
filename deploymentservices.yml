@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mywebsitefrontend
-        image: ksudhy/$BUILD_NUMBER
+        image: ksudhy/ksudhy_website:9
         ports:
         - containerPort: 80
 
